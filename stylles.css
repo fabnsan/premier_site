@@ -1,0 +1,28 @@
+body {
+  background-color: blue;
+}
+h1 {
+  color: black;
+  size: 10rem;
+  font-weight: 700;
+}
+h2 {
+  color: dimgrey;
+  size: 3rem;
+  font-weight: 300;
+  font-style: italic;
+}
+p a {
+  color: blue;
+  font-style: oblique;
+  text-decoration: underline;
+  text-shadow: 3px;
+}
+div.img-container {
+height: 800px;
+width: 100%;
+background-image: url(img/005.jpg);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
